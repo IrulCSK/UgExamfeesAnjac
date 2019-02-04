@@ -1,0 +1,7 @@
+https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js
+
+
+https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.bundle.min.js
+
+
+https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css
