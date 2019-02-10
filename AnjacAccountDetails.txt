@@ -1,0 +1,17 @@
+Self Courses Bank Account 
+** Account No: 003-100-050-174-204
+** Bank Name: Tamilnad Mercantile Bank Ltd.,
+** Branch: AJ College Branch,
+** IFSC: TMBL0000194
+** MICR: 626060003
+** Account Type: SB Account
+
+
+* Regular Courses Bank Account
+** Account No: 003-100-050-161-821 
+** Bank Name: Tamilnad Mercantile Bank Ltd.,
+** Branch: AJ College Branch,
+** IFSC: TMBL0000194
+** MICR: 626060003
+** Account Type: SB Account
+

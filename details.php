@@ -46,7 +46,6 @@ include('config.php');
 
 <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
 
-
 <body>
 <center>
 <br>
@@ -106,7 +105,7 @@ echo '<img src="data:image/jpeg;base64,'.base64_encode( $res['Photo'] ).'"; heig
 <?php  
 
 }
- 
+
 elseif ($res['rollno']!=$res)
 
 {

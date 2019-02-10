@@ -15,10 +15,13 @@
 
 <style type="text/css">
 
+
 head
 {
+
 	color: blue;
 	font-size: 30px;
+
 }
 
 </style>
@@ -55,7 +58,7 @@ if(mysqli_num_rows($res) >0)
   	while ($result=mysqli_fetch_array($res))
 	 {       
       
-        $uname=$result['uname'];
+      $uname=$result['uname'];
 	    $upass=$result['upass']; 
 	    $rollno=$result['rollno'];	
 
@@ -69,7 +72,7 @@ if ($name == $result['uname'] && $pass == $result['upass'])
 }
 
 elseif ($name!= $result['uname'] && $pass==$result['upass'])
- {
+{
 
 	echo "Invalid Username";
 
@@ -77,14 +80,10 @@ elseif ($name!= $result['uname'] && $pass==$result['upass'])
 
  elseif ($name==$result['uname'] && $pass != $result['upass'])
 {
- 
 
-   echo "Pls Check U r password";
-
+  echo "Pls Check U r password";
 
 }
-
-
 
 }
 
